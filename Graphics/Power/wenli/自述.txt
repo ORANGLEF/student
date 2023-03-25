@@ -1,0 +1,4 @@
+使用vs的命令行工具编译代码
+Developer Command Prompt for vs 2019
+
+cl  main.cpp
